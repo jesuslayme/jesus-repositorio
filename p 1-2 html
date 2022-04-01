@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>taller de computacion - ciclo 1 practica 1-2</title>
+	<link rel="stylesheet" type="text/css" href="practica1-2.css">
+
+<body>
+	<body background="viaa.jpg">
+		
+	
+
+	<font size="50" color=" red "> <center>Taller de computacion - ciclo 1</center> <br> <center>practica 1y2</center>  </font>
+	<table>
+		<tr>
+			<th id="primera_seccion"> <h2> NOMBRE: </h2></th> 
+			<th></h2><U id="letras">JESUS REYNALDO LAYME CALANCHA</U></h2></th>
+	 
+		</tr>
+			
+		<tr>
+			<th id="primera_seccion"><h2> DOCENTE: </h2></th>
+			<th><h3><U id="letras">INGENIERO RAMIRO PARDO</U></h3></th>
+				
+
+		</tr>
+			  
+	
+		<tr>
+			 <th id="primera_seccion"> <h2> CARRERA: </h2></th>
+			<th> </h2> <U id="letras">INGENIERIA EN SISTEMAS</U> </h2> </th> 
+			<th id="primera_seccion"> <h2> CODIGO</h2> </th>
+			<th id="letras"> 15377-9</th>
+			
+		</tr>
+		 
+	</table>
+	<div id="letras">
+	<h3> con todo lo aprendido hasta el momento se le pide realizar :</h3>
+	<h3> a)  con etiquetas HTML5 Y CSS3 generar (10pts.)</h3>
+	</div>
+	<div >
+		<a href="https://www.youtube.com/watch?v=OdCrtWzjkmA"target="_black" ><img src="tttt.jpg" class="segunda_seccion"></a>
+
+		
+    </div>
+
+	<div id="tercera_seccion" 	>
+              <h1> <li>aula clic. cursos de informatica gratis</li></h1>
+
+
+	</div>
+	<div id="cuarta_seccion">
+		
+		<p>la primera web en español sobre cursos de informatica <a href="http:www.google.com/"target="_black" id="quinta_seccion"> gratis</a> on-line</p>
+	</div>
+	<div id="sexta_seccion">
+		<h3>cursos de aula clik </h3>
+	<ol>
+		<li>acces 2016</li>
+		<li>excel 2016</li>
+		<li>internet</li>
+		<li>windows</li>
+	</ol>
+		<h3>cursos de colaboradores </h3>
+	<ol>
+		<li>autocad 2015</li>
+		<li>estadistica con excel</li>
+		<li>joomla</li>
+		
+	</ol>
+
+
+	</div>
+
+	<div id="letras">
+		
+		<h2 > Siguenos en <a href="https://es-la.facebook.com/"target="_black">Facebook</a></h2>
+	</div>
+
+		
+	    
+	
+
+
+</body>
+</html> 
