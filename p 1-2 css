@@ -1,0 +1,63 @@
+.primera_seccion{
+			height: 400px;
+		     width: 800px;
+			border-style:solid;
+		
+			color: black;
+	
+			margin: 100px 100px 30px 250px;
+		}
+.segunda_seccion{
+
+		height: 700px;
+		     width: 800px;
+			border-style:solid;
+		
+			color: black;
+	
+			margin: 100px 100px 30px 250px;
+		}
+		.tercera_seccion{
+		    width: 300px ;
+			margin: 50px;
+
+			float: left;
+		}
+		.cuarta_seccion{
+		    width: 300px ;
+			margin: 50px;
+		
+			float: right;
+					}
+		#cuadrado-rojo {
+			background-color:red ;
+		}
+		#cuadrado-white {
+			background-color:white ;
+
+		}
+		.quinta_seccion {
+			width: 140px;
+			height: 40px;
+			margin: 380px 100px 20px 300px;
+			padding: auto;
+
+
+		
+			
+		}
+	
+		
+	
+		p {
+			font-size: ;
+		}
+		}
+		a:hover {
+		text-decoration: underline;
+		color: red;
+	}
+		#letras{
+			color: orange ;
+			
+		}
